@@ -1,6 +1,7 @@
 # Overview
 
-This is simply a reposity
+This is simply a repository made for the purpose of configuring my github portfolio. Furthermore, this repository presents
+evidence of my ability to effectively use git in a practical manner.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -11,7 +12,5 @@ This is simply a reposity
 -   Git
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 -   [Github](https://github.com/)
